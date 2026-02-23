@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm vaishu</h1>
-<h3 align="center">web developer|app developer|</h3>
+<h3 align="center">cloud Engineer </h3>
 
-- 🔭 I’m currently working on **app development**
-
-- 🌱 I’m currently learning **figma**
+- 🔭 I’m currently a **cloud Engineer**
 
 - 📫 How to reach me **vaishuganesann14@gmail.com**
 
